@@ -1,0 +1,2083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/jmi2k/Desktop/orthowing/orthowing/orthowing.sch</source>
+    <date>mié 22 abr 2020 15:38:03 CEST</date>
+    <tool>Eeschema 5.0.2-bee76a0~70~ubuntu18.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>orthowing.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/sheetKeys/" tstamps="/5EA3A06A/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>fileKeys.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/sheetSockets/" tstamps="/5EA8CE28/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>fileSockets.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/sheetIO/" tstamps="/5EA99ABE/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>fileIO.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="H7">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC52ED2</tstamp>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EAFCA0B</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EAFCA04</tstamp>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EAD8756</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EAC8CFF</tstamp>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EAC8CF8</tstamp>
+    </comp>
+    <comp ref="H0">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EAC8CF1</tstamp>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EAC8CEA</tstamp>
+    </comp>
+    <comp ref="SW36">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55DCB</tstamp>
+    </comp>
+    <comp ref="D36">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55DD2</tstamp>
+    </comp>
+    <comp ref="SW37">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55DD9</tstamp>
+    </comp>
+    <comp ref="D37">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55DE0</tstamp>
+    </comp>
+    <comp ref="SW38">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55DE7</tstamp>
+    </comp>
+    <comp ref="D38">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55DEE</tstamp>
+    </comp>
+    <comp ref="SW39">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55DF5</tstamp>
+    </comp>
+    <comp ref="D39">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55DFC</tstamp>
+    </comp>
+    <comp ref="SW40">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E03</tstamp>
+    </comp>
+    <comp ref="D40">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E0A</tstamp>
+    </comp>
+    <comp ref="SW41">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E11</tstamp>
+    </comp>
+    <comp ref="D41">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E18</tstamp>
+    </comp>
+    <comp ref="SW42">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E1F</tstamp>
+    </comp>
+    <comp ref="D42">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E26</tstamp>
+    </comp>
+    <comp ref="SW43">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E2D</tstamp>
+    </comp>
+    <comp ref="D43">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E34</tstamp>
+    </comp>
+    <comp ref="SW44">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E3B</tstamp>
+    </comp>
+    <comp ref="D44">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E42</tstamp>
+    </comp>
+    <comp ref="SW45">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E49</tstamp>
+    </comp>
+    <comp ref="D45">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E50</tstamp>
+    </comp>
+    <comp ref="SW46">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E57</tstamp>
+    </comp>
+    <comp ref="D46">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E5E</tstamp>
+    </comp>
+    <comp ref="SW47">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E65</tstamp>
+    </comp>
+    <comp ref="D47">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E6C</tstamp>
+    </comp>
+    <comp ref="SW48">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E73</tstamp>
+    </comp>
+    <comp ref="D48">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E7A</tstamp>
+    </comp>
+    <comp ref="SW49">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E81</tstamp>
+    </comp>
+    <comp ref="D49">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E88</tstamp>
+    </comp>
+    <comp ref="SW50">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E8F</tstamp>
+    </comp>
+    <comp ref="D50">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E96</tstamp>
+    </comp>
+    <comp ref="SW51">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55E9D</tstamp>
+    </comp>
+    <comp ref="D51">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55EA4</tstamp>
+    </comp>
+    <comp ref="SW52">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55EAB</tstamp>
+    </comp>
+    <comp ref="D52">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55EB2</tstamp>
+    </comp>
+    <comp ref="SW53">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55EB9</tstamp>
+    </comp>
+    <comp ref="D53">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55EC0</tstamp>
+    </comp>
+    <comp ref="SW54">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55EC7</tstamp>
+    </comp>
+    <comp ref="D54">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55ECE</tstamp>
+    </comp>
+    <comp ref="SW55">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55ED5</tstamp>
+    </comp>
+    <comp ref="D55">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55EDC</tstamp>
+    </comp>
+    <comp ref="SW56">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55EE3</tstamp>
+    </comp>
+    <comp ref="D56">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55EEA</tstamp>
+    </comp>
+    <comp ref="SW57">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55EF1</tstamp>
+    </comp>
+    <comp ref="D57">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55EF8</tstamp>
+    </comp>
+    <comp ref="SW58">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55EFF</tstamp>
+    </comp>
+    <comp ref="D58">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F06</tstamp>
+    </comp>
+    <comp ref="SW59">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F0D</tstamp>
+    </comp>
+    <comp ref="D59">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F14</tstamp>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F1B</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F22</tstamp>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F29</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F30</tstamp>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F37</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F3E</tstamp>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F45</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F4C</tstamp>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F53</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F5A</tstamp>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F61</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F68</tstamp>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F6F</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F76</tstamp>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F7D</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F84</tstamp>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F8B</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F92</tstamp>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55F99</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55FA0</tstamp>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55FA7</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55FAE</tstamp>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55FB5</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55FBC</tstamp>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55FC3</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55FCA</tstamp>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55FD1</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55FD8</tstamp>
+    </comp>
+    <comp ref="SW26">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55FDF</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55FE6</tstamp>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55FED</tstamp>
+    </comp>
+    <comp ref="D27">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55FF4</tstamp>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA55FFB</tstamp>
+    </comp>
+    <comp ref="D28">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56002</tstamp>
+    </comp>
+    <comp ref="SW29">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56009</tstamp>
+    </comp>
+    <comp ref="D29">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56010</tstamp>
+    </comp>
+    <comp ref="SW30">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56017</tstamp>
+    </comp>
+    <comp ref="D30">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA5601E</tstamp>
+    </comp>
+    <comp ref="SW31">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56025</tstamp>
+    </comp>
+    <comp ref="D31">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA5602C</tstamp>
+    </comp>
+    <comp ref="SW32">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56033</tstamp>
+    </comp>
+    <comp ref="D32">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA5603A</tstamp>
+    </comp>
+    <comp ref="SW33">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56041</tstamp>
+    </comp>
+    <comp ref="D33">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56048</tstamp>
+    </comp>
+    <comp ref="SW34">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA5604F</tstamp>
+    </comp>
+    <comp ref="D34">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56056</tstamp>
+    </comp>
+    <comp ref="SW35">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA5605D</tstamp>
+    </comp>
+    <comp ref="D35">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56064</tstamp>
+    </comp>
+    <comp ref="SW0">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA5606B</tstamp>
+    </comp>
+    <comp ref="D0">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56072</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56079</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56080</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56087</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA5608E</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56095</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA5609C</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA560A3</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA560AA</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA560B1</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA560B8</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA560BF</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA560C6</tstamp>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA560CD</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA560D4</tstamp>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA560DB</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA560E2</tstamp>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA560E9</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA560F0</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA560F7</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA560FE</tstamp>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_MX</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA56105</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C493187</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/sheetKeys/" tstamps="/5EA3A06A/"/>
+      <tstamp>5EA5610C</tstamp>
+    </comp>
+    <comp ref="JB0">
+      <value>Conn_01x16_Female</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x16_Female" description="Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/sheetSockets/" tstamps="/5EA8CE28/"/>
+      <tstamp>5EA8CF35</tstamp>
+    </comp>
+    <comp ref="JB1">
+      <value>Conn_01x12_Female</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x12_Female" description="Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/sheetSockets/" tstamps="/5EA8CE28/"/>
+      <tstamp>5EA8CF3C</tstamp>
+    </comp>
+    <comp ref="JA0">
+      <value>Conn_01x16_Female</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x16_Female" description="Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/sheetSockets/" tstamps="/5EA8CE28/"/>
+      <tstamp>5EA8CF43</tstamp>
+    </comp>
+    <comp ref="JA1">
+      <value>Conn_01x12_Female</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x12_Female" description="Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/sheetSockets/" tstamps="/5EA8CE28/"/>
+      <tstamp>5EA8CF4A</tstamp>
+    </comp>
+    <comp ref="HA1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/sheetSockets/" tstamps="/5EA8CE28/"/>
+      <tstamp>5EA8CF89</tstamp>
+    </comp>
+    <comp ref="HA0">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/sheetSockets/" tstamps="/5EA8CE28/"/>
+      <tstamp>5EA8CF90</tstamp>
+    </comp>
+    <comp ref="HA3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/sheetSockets/" tstamps="/5EA8CE28/"/>
+      <tstamp>5EA8CF97</tstamp>
+    </comp>
+    <comp ref="HA2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/sheetSockets/" tstamps="/5EA8CE28/"/>
+      <tstamp>5EA8CF9E</tstamp>
+    </comp>
+    <comp ref="HB1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/sheetSockets/" tstamps="/5EA8CE28/"/>
+      <tstamp>5EA8CFA5</tstamp>
+    </comp>
+    <comp ref="HB0">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/sheetSockets/" tstamps="/5EA8CE28/"/>
+      <tstamp>5EA8CFAC</tstamp>
+    </comp>
+    <comp ref="HB3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/sheetSockets/" tstamps="/5EA8CE28/"/>
+      <tstamp>5EA8CFB3</tstamp>
+    </comp>
+    <comp ref="HB2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/sheetSockets/" tstamps="/5EA8CE28/"/>
+      <tstamp>5EA8CFBA</tstamp>
+    </comp>
+    <comp ref="U0">
+      <value>MCP23017_SP</value>
+      <footprint>Package_DIP:DIP-28_W7.62mm_Socket</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf</datasheet>
+      <libsource lib="Interface_Expansion" part="MCP23017_SP" description="16-bit I/O expander, I2C, interrupts, w pull-ups, SPDIP-28"/>
+      <sheetpath names="/sheetIO/" tstamps="/5EA99ABE/"/>
+      <tstamp>5EC5B366</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>MCP23017_SP</value>
+      <footprint>Package_DIP:DIP-28_W7.62mm_Socket</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf</datasheet>
+      <libsource lib="Interface_Expansion" part="MCP23017_SP" description="16-bit I/O expander, I2C, interrupts, w pull-ups, SPDIP-28"/>
+      <sheetpath names="/sheetIO/" tstamps="/5EA99ABE/"/>
+      <tstamp>5EC5B3CA</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x12_Female">
+      <description>Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x12_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x16_Female">
+      <description>Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x16_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_Expansion" part="MCP23017_SP">
+      <description>16-bit I/O expander, I2C, interrupts, w pull-ups, SPDIP-28</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP23017_SP</field>
+        <field name="Footprint">Package_DIP:DIP-28_W7.62mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GPB0" type="BiDi"/>
+        <pin num="2" name="GPB1" type="BiDi"/>
+        <pin num="3" name="GPB2" type="BiDi"/>
+        <pin num="4" name="GPB3" type="BiDi"/>
+        <pin num="5" name="GPB4" type="BiDi"/>
+        <pin num="6" name="GPB5" type="BiDi"/>
+        <pin num="7" name="GPB6" type="BiDi"/>
+        <pin num="8" name="GPB7" type="BiDi"/>
+        <pin num="9" name="VDD" type="power_in"/>
+        <pin num="10" name="VSS" type="power_in"/>
+        <pin num="11" name="NC" type="NotConnected"/>
+        <pin num="12" name="SCK" type="input"/>
+        <pin num="13" name="SDA" type="BiDi"/>
+        <pin num="14" name="NC" type="NotConnected"/>
+        <pin num="15" name="A0" type="input"/>
+        <pin num="16" name="A1" type="input"/>
+        <pin num="17" name="A2" type="input"/>
+        <pin num="18" name="~RESET~" type="input"/>
+        <pin num="19" name="INTB" type="3state"/>
+        <pin num="20" name="INTA" type="3state"/>
+        <pin num="21" name="GPA0" type="BiDi"/>
+        <pin num="22" name="GPA1" type="BiDi"/>
+        <pin num="23" name="GPA2" type="BiDi"/>
+        <pin num="24" name="GPA3" type="BiDi"/>
+        <pin num="25" name="GPA4" type="BiDi"/>
+        <pin num="26" name="GPA5" type="BiDi"/>
+        <pin num="27" name="GPA6" type="BiDi"/>
+        <pin num="28" name="GPA7" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+      </fields>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="Interface_Expansion">
+      <uri>/usr/share/kicad/library/Interface_Expansion.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/library/Mechanical.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/usr/share/kicad/library/Switch.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="U0" pin="17"/>
+      <node ref="U0" pin="15"/>
+      <node ref="U1" pin="16"/>
+      <node ref="U0" pin="16"/>
+      <node ref="JA0" pin="4"/>
+      <node ref="U1" pin="15"/>
+      <node ref="JB0" pin="4"/>
+      <node ref="U1" pin="10"/>
+      <node ref="U0" pin="10"/>
+    </net>
+    <net code="2" name="3V3">
+      <node ref="U0" pin="9"/>
+      <node ref="U1" pin="9"/>
+      <node ref="U1" pin="17"/>
+      <node ref="JA0" pin="2"/>
+      <node ref="JB0" pin="2"/>
+    </net>
+    <net code="3" name="C2">
+      <node ref="SW26" pin="1"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="SW14" pin="1"/>
+      <node ref="SW38" pin="1"/>
+      <node ref="SW50" pin="1"/>
+      <node ref="U0" pin="3"/>
+    </net>
+    <net code="4" name="C5">
+      <node ref="U0" pin="6"/>
+      <node ref="SW41" pin="1"/>
+      <node ref="SW5" pin="1"/>
+      <node ref="SW53" pin="1"/>
+      <node ref="SW17" pin="1"/>
+      <node ref="SW29" pin="1"/>
+    </net>
+    <net code="5" name="C4">
+      <node ref="U0" pin="5"/>
+      <node ref="SW4" pin="1"/>
+      <node ref="SW28" pin="1"/>
+      <node ref="SW16" pin="1"/>
+      <node ref="SW52" pin="1"/>
+      <node ref="SW40" pin="1"/>
+    </net>
+    <net code="6" name="C3">
+      <node ref="U0" pin="4"/>
+      <node ref="SW15" pin="1"/>
+      <node ref="SW39" pin="1"/>
+      <node ref="SW51" pin="1"/>
+      <node ref="SW27" pin="1"/>
+      <node ref="SW3" pin="1"/>
+    </net>
+    <net code="7" name="C1">
+      <node ref="SW37" pin="1"/>
+      <node ref="SW13" pin="1"/>
+      <node ref="SW25" pin="1"/>
+      <node ref="SW49" pin="1"/>
+      <node ref="U0" pin="2"/>
+      <node ref="SW1" pin="1"/>
+    </net>
+    <net code="8" name="C7">
+      <node ref="SW19" pin="1"/>
+      <node ref="SW55" pin="1"/>
+      <node ref="SW31" pin="1"/>
+      <node ref="U0" pin="8"/>
+      <node ref="SW7" pin="1"/>
+      <node ref="SW43" pin="1"/>
+    </net>
+    <net code="9" name="C6">
+      <node ref="U0" pin="7"/>
+      <node ref="SW6" pin="1"/>
+      <node ref="SW54" pin="1"/>
+      <node ref="SW18" pin="1"/>
+      <node ref="SW30" pin="1"/>
+      <node ref="SW42" pin="1"/>
+    </net>
+    <net code="10" name="C9">
+      <node ref="U0" pin="22"/>
+      <node ref="SW45" pin="1"/>
+      <node ref="SW57" pin="1"/>
+      <node ref="SW21" pin="1"/>
+      <node ref="SW33" pin="1"/>
+      <node ref="SW9" pin="1"/>
+    </net>
+    <net code="11" name="C11">
+      <node ref="SW59" pin="1"/>
+      <node ref="SW11" pin="1"/>
+      <node ref="SW23" pin="1"/>
+      <node ref="U0" pin="24"/>
+      <node ref="SW35" pin="1"/>
+      <node ref="SW47" pin="1"/>
+    </net>
+    <net code="12" name="C10">
+      <node ref="U0" pin="23"/>
+      <node ref="SW22" pin="1"/>
+      <node ref="SW10" pin="1"/>
+      <node ref="SW58" pin="1"/>
+      <node ref="SW46" pin="1"/>
+      <node ref="SW34" pin="1"/>
+    </net>
+    <net code="13" name="C8">
+      <node ref="SW56" pin="1"/>
+      <node ref="SW32" pin="1"/>
+      <node ref="SW20" pin="1"/>
+      <node ref="SW8" pin="1"/>
+      <node ref="U0" pin="21"/>
+      <node ref="SW44" pin="1"/>
+    </net>
+    <net code="14" name="R1">
+      <node ref="D14" pin="1"/>
+      <node ref="D17" pin="1"/>
+      <node ref="D23" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D18" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D22" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D21" pin="1"/>
+    </net>
+    <net code="15" name="R2">
+      <node ref="D31" pin="1"/>
+      <node ref="D35" pin="1"/>
+      <node ref="D27" pin="1"/>
+      <node ref="D30" pin="1"/>
+      <node ref="D34" pin="1"/>
+      <node ref="D24" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D33" pin="1"/>
+      <node ref="D25" pin="1"/>
+      <node ref="D28" pin="1"/>
+      <node ref="D29" pin="1"/>
+      <node ref="D32" pin="1"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="16" name="R0">
+      <node ref="D11" pin="1"/>
+      <node ref="D0" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="U1" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D10" pin="1"/>
+    </net>
+    <net code="17" name="R4">
+      <node ref="D54" pin="1"/>
+      <node ref="D59" pin="1"/>
+      <node ref="D48" pin="1"/>
+      <node ref="D58" pin="1"/>
+      <node ref="D51" pin="1"/>
+      <node ref="D57" pin="1"/>
+      <node ref="D56" pin="1"/>
+      <node ref="D52" pin="1"/>
+      <node ref="U1" pin="5"/>
+      <node ref="D55" pin="1"/>
+      <node ref="D53" pin="1"/>
+      <node ref="D49" pin="1"/>
+      <node ref="D50" pin="1"/>
+    </net>
+    <net code="18" name="R3">
+      <node ref="D41" pin="1"/>
+      <node ref="U1" pin="4"/>
+      <node ref="D43" pin="1"/>
+      <node ref="D40" pin="1"/>
+      <node ref="D44" pin="1"/>
+      <node ref="D42" pin="1"/>
+      <node ref="D39" pin="1"/>
+      <node ref="D38" pin="1"/>
+      <node ref="D45" pin="1"/>
+      <node ref="D46" pin="1"/>
+      <node ref="D47" pin="1"/>
+      <node ref="D36" pin="1"/>
+      <node ref="D37" pin="1"/>
+    </net>
+    <net code="19" name="Net-(D54-Pad2)">
+      <node ref="SW54" pin="2"/>
+      <node ref="D54" pin="2"/>
+    </net>
+    <net code="20" name="Net-(D58-Pad2)">
+      <node ref="SW58" pin="2"/>
+      <node ref="D58" pin="2"/>
+    </net>
+    <net code="21" name="Net-(D57-Pad2)">
+      <node ref="SW57" pin="2"/>
+      <node ref="D57" pin="2"/>
+    </net>
+    <net code="22" name="Net-(D56-Pad2)">
+      <node ref="D56" pin="2"/>
+      <node ref="SW56" pin="2"/>
+    </net>
+    <net code="23" name="Net-(D55-Pad2)">
+      <node ref="D55" pin="2"/>
+      <node ref="SW55" pin="2"/>
+    </net>
+    <net code="24" name="Net-(D53-Pad2)">
+      <node ref="D53" pin="2"/>
+      <node ref="SW53" pin="2"/>
+    </net>
+    <net code="25" name="Net-(D52-Pad2)">
+      <node ref="SW52" pin="2"/>
+      <node ref="D52" pin="2"/>
+    </net>
+    <net code="26" name="Net-(D51-Pad2)">
+      <node ref="SW51" pin="2"/>
+      <node ref="D51" pin="2"/>
+    </net>
+    <net code="27" name="Net-(D18-Pad2)">
+      <node ref="SW18" pin="2"/>
+      <node ref="D18" pin="2"/>
+    </net>
+    <net code="28" name="Net-(D17-Pad2)">
+      <node ref="SW17" pin="2"/>
+      <node ref="D17" pin="2"/>
+    </net>
+    <net code="29" name="Net-(D16-Pad2)">
+      <node ref="SW16" pin="2"/>
+      <node ref="D16" pin="2"/>
+    </net>
+    <net code="30" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2"/>
+      <node ref="SW15" pin="2"/>
+    </net>
+    <net code="31" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2"/>
+      <node ref="SW14" pin="2"/>
+    </net>
+    <net code="32" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2"/>
+      <node ref="SW13" pin="2"/>
+    </net>
+    <net code="33" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2"/>
+      <node ref="SW12" pin="2"/>
+    </net>
+    <net code="34" name="Net-(D59-Pad2)">
+      <node ref="D59" pin="2"/>
+      <node ref="SW59" pin="2"/>
+    </net>
+    <net code="35" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2"/>
+      <node ref="SW43" pin="2"/>
+    </net>
+    <net code="36" name="Net-(D42-Pad2)">
+      <node ref="D42" pin="2"/>
+      <node ref="SW42" pin="2"/>
+    </net>
+    <net code="37" name="Net-(D41-Pad2)">
+      <node ref="SW41" pin="2"/>
+      <node ref="D41" pin="2"/>
+    </net>
+    <net code="38" name="Net-(D40-Pad2)">
+      <node ref="D40" pin="2"/>
+      <node ref="SW40" pin="2"/>
+    </net>
+    <net code="39" name="Net-(D39-Pad2)">
+      <node ref="D39" pin="2"/>
+      <node ref="SW39" pin="2"/>
+    </net>
+    <net code="40" name="Net-(D38-Pad2)">
+      <node ref="D38" pin="2"/>
+      <node ref="SW38" pin="2"/>
+    </net>
+    <net code="41" name="Net-(D37-Pad2)">
+      <node ref="D37" pin="2"/>
+      <node ref="SW37" pin="2"/>
+    </net>
+    <net code="42" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2"/>
+      <node ref="SW36" pin="2"/>
+    </net>
+    <net code="43" name="Net-(D47-Pad2)">
+      <node ref="SW47" pin="2"/>
+      <node ref="D47" pin="2"/>
+    </net>
+    <net code="44" name="Net-(D50-Pad2)">
+      <node ref="D50" pin="2"/>
+      <node ref="SW50" pin="2"/>
+    </net>
+    <net code="45" name="Net-(D49-Pad2)">
+      <node ref="SW49" pin="2"/>
+      <node ref="D49" pin="2"/>
+    </net>
+    <net code="46" name="Net-(D48-Pad2)">
+      <node ref="SW48" pin="2"/>
+      <node ref="D48" pin="2"/>
+    </net>
+    <net code="47" name="C0">
+      <node ref="SW0" pin="1"/>
+      <node ref="SW48" pin="1"/>
+      <node ref="U0" pin="1"/>
+      <node ref="SW24" pin="1"/>
+      <node ref="SW36" pin="1"/>
+      <node ref="SW12" pin="1"/>
+    </net>
+    <net code="48" name="Net-(D46-Pad2)">
+      <node ref="D46" pin="2"/>
+      <node ref="SW46" pin="2"/>
+    </net>
+    <net code="49" name="Net-(D45-Pad2)">
+      <node ref="D45" pin="2"/>
+      <node ref="SW45" pin="2"/>
+    </net>
+    <net code="50" name="Net-(D44-Pad2)">
+      <node ref="D44" pin="2"/>
+      <node ref="SW44" pin="2"/>
+    </net>
+    <net code="51" name="Net-(D1-Pad2)">
+      <node ref="SW1" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="52" name="Net-(D5-Pad2)">
+      <node ref="SW5" pin="2"/>
+      <node ref="D5" pin="2"/>
+    </net>
+    <net code="53" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2"/>
+      <node ref="SW4" pin="2"/>
+    </net>
+    <net code="54" name="Net-(D3-Pad2)">
+      <node ref="SW3" pin="2"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="55" name="Net-(D2-Pad2)">
+      <node ref="SW2" pin="2"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="56" name="Net-(D0-Pad2)">
+      <node ref="D0" pin="2"/>
+      <node ref="SW0" pin="2"/>
+    </net>
+    <net code="57" name="Net-(D35-Pad2)">
+      <node ref="D35" pin="2"/>
+      <node ref="SW35" pin="2"/>
+    </net>
+    <net code="58" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2"/>
+      <node ref="SW34" pin="2"/>
+    </net>
+    <net code="59" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2"/>
+      <node ref="SW11" pin="2"/>
+    </net>
+    <net code="60" name="Net-(D10-Pad2)">
+      <node ref="SW10" pin="2"/>
+      <node ref="D10" pin="2"/>
+    </net>
+    <net code="61" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2"/>
+      <node ref="SW9" pin="2"/>
+    </net>
+    <net code="62" name="Net-(D8-Pad2)">
+      <node ref="SW8" pin="2"/>
+      <node ref="D8" pin="2"/>
+    </net>
+    <net code="63" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2"/>
+      <node ref="SW7" pin="2"/>
+    </net>
+    <net code="64" name="Net-(D6-Pad2)">
+      <node ref="SW6" pin="2"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="65" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2"/>
+      <node ref="SW26" pin="2"/>
+    </net>
+    <net code="66" name="Net-(D25-Pad2)">
+      <node ref="SW25" pin="2"/>
+      <node ref="D25" pin="2"/>
+    </net>
+    <net code="67" name="Net-(D24-Pad2)">
+      <node ref="SW24" pin="2"/>
+      <node ref="D24" pin="2"/>
+    </net>
+    <net code="68" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2"/>
+      <node ref="SW23" pin="2"/>
+    </net>
+    <net code="69" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2"/>
+      <node ref="SW22" pin="2"/>
+    </net>
+    <net code="70" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2"/>
+      <node ref="SW33" pin="2"/>
+    </net>
+    <net code="71" name="Net-(D21-Pad2)">
+      <node ref="SW21" pin="2"/>
+      <node ref="D21" pin="2"/>
+    </net>
+    <net code="72" name="Net-(D20-Pad2)">
+      <node ref="SW20" pin="2"/>
+      <node ref="D20" pin="2"/>
+    </net>
+    <net code="73" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2"/>
+      <node ref="SW19" pin="2"/>
+    </net>
+    <net code="74" name="Net-(D32-Pad2)">
+      <node ref="SW32" pin="2"/>
+      <node ref="D32" pin="2"/>
+    </net>
+    <net code="75" name="Net-(D31-Pad2)">
+      <node ref="D31" pin="2"/>
+      <node ref="SW31" pin="2"/>
+    </net>
+    <net code="76" name="Net-(D30-Pad2)">
+      <node ref="SW30" pin="2"/>
+      <node ref="D30" pin="2"/>
+    </net>
+    <net code="77" name="Net-(D27-Pad2)">
+      <node ref="SW27" pin="2"/>
+      <node ref="D27" pin="2"/>
+    </net>
+    <net code="78" name="Net-(D28-Pad2)">
+      <node ref="SW28" pin="2"/>
+      <node ref="D28" pin="2"/>
+    </net>
+    <net code="79" name="Net-(D29-Pad2)">
+      <node ref="SW29" pin="2"/>
+      <node ref="D29" pin="2"/>
+    </net>
+    <net code="80" name="VBAT">
+      <node ref="JB1" pin="1"/>
+      <node ref="JA1" pin="1"/>
+    </net>
+    <net code="81" name="6">
+      <node ref="JB1" pin="9"/>
+      <node ref="JA1" pin="9"/>
+    </net>
+    <net code="82" name="RST">
+      <node ref="U0" pin="18"/>
+      <node ref="JA0" pin="1"/>
+      <node ref="JB0" pin="1"/>
+      <node ref="U1" pin="18"/>
+    </net>
+    <net code="83" name="9">
+      <node ref="JB1" pin="8"/>
+      <node ref="JA1" pin="8"/>
+    </net>
+    <net code="84" name="10">
+      <node ref="JB1" pin="7"/>
+      <node ref="JA1" pin="7"/>
+    </net>
+    <net code="85" name="11">
+      <node ref="JB1" pin="6"/>
+      <node ref="JA1" pin="6"/>
+    </net>
+    <net code="86" name="12">
+      <node ref="JA1" pin="5"/>
+      <node ref="JB1" pin="5"/>
+    </net>
+    <net code="87" name="13">
+      <node ref="JB1" pin="4"/>
+      <node ref="JA1" pin="4"/>
+    </net>
+    <net code="88" name="VUSB">
+      <node ref="JA1" pin="3"/>
+      <node ref="JB1" pin="3"/>
+    </net>
+    <net code="89" name="EN">
+      <node ref="JA1" pin="2"/>
+      <node ref="JB1" pin="2"/>
+    </net>
+    <net code="90" name="SDA">
+      <node ref="U1" pin="13"/>
+      <node ref="U0" pin="13"/>
+      <node ref="JB1" pin="12"/>
+      <node ref="JA1" pin="12"/>
+    </net>
+    <net code="91" name="SCL">
+      <node ref="JA1" pin="11"/>
+      <node ref="U1" pin="12"/>
+      <node ref="JB1" pin="11"/>
+      <node ref="U0" pin="12"/>
+    </net>
+    <net code="92" name="5">
+      <node ref="JA1" pin="10"/>
+      <node ref="JB1" pin="10"/>
+    </net>
+    <net code="93" name="A4">
+      <node ref="JB0" pin="9"/>
+      <node ref="JA0" pin="9"/>
+    </net>
+    <net code="94" name="A3">
+      <node ref="JA0" pin="8"/>
+      <node ref="JB0" pin="8"/>
+    </net>
+    <net code="95" name="A1">
+      <node ref="JA0" pin="6"/>
+      <node ref="JB0" pin="6"/>
+    </net>
+    <net code="96" name="A2">
+      <node ref="JA0" pin="7"/>
+      <node ref="JB0" pin="7"/>
+    </net>
+    <net code="97" name="A5">
+      <node ref="JB0" pin="10"/>
+      <node ref="JA0" pin="10"/>
+    </net>
+    <net code="98" name="SCK">
+      <node ref="JB0" pin="11"/>
+      <node ref="JA0" pin="11"/>
+    </net>
+    <net code="99" name="MOSI">
+      <node ref="JB0" pin="12"/>
+      <node ref="JA0" pin="12"/>
+    </net>
+    <net code="100" name="MISO">
+      <node ref="JA0" pin="13"/>
+      <node ref="JB0" pin="13"/>
+    </net>
+    <net code="101" name="0">
+      <node ref="JA0" pin="14"/>
+      <node ref="JB0" pin="14"/>
+    </net>
+    <net code="102" name="X">
+      <node ref="JA0" pin="16"/>
+      <node ref="JB0" pin="16"/>
+    </net>
+    <net code="103" name="AREF">
+      <node ref="JB0" pin="3"/>
+      <node ref="JA0" pin="3"/>
+    </net>
+    <net code="104" name="A0">
+      <node ref="JB0" pin="5"/>
+      <node ref="JA0" pin="5"/>
+    </net>
+    <net code="105" name="1">
+      <node ref="JA0" pin="15"/>
+      <node ref="JB0" pin="15"/>
+    </net>
+    <net code="106" name="Net-(U1-Pad22)">
+      <node ref="U1" pin="22"/>
+    </net>
+    <net code="107" name="Net-(U1-Pad23)">
+      <node ref="U1" pin="23"/>
+    </net>
+    <net code="108" name="Net-(U1-Pad24)">
+      <node ref="U1" pin="24"/>
+    </net>
+    <net code="109" name="Net-(U1-Pad25)">
+      <node ref="U1" pin="25"/>
+    </net>
+    <net code="110" name="Net-(U1-Pad26)">
+      <node ref="U1" pin="26"/>
+    </net>
+    <net code="111" name="Net-(U1-Pad27)">
+      <node ref="U1" pin="27"/>
+    </net>
+    <net code="112" name="Net-(U1-Pad28)">
+      <node ref="U1" pin="28"/>
+    </net>
+    <net code="113" name="Net-(U1-Pad6)">
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="114" name="Net-(U1-Pad7)">
+      <node ref="U1" pin="7"/>
+    </net>
+    <net code="115" name="Net-(U1-Pad21)">
+      <node ref="U1" pin="21"/>
+    </net>
+    <net code="116" name="Net-(U1-Pad20)">
+      <node ref="U1" pin="20"/>
+    </net>
+    <net code="117" name="Net-(U1-Pad19)">
+      <node ref="U1" pin="19"/>
+    </net>
+    <net code="118" name="Net-(U1-Pad14)">
+      <node ref="U1" pin="14"/>
+    </net>
+    <net code="119" name="Net-(U1-Pad11)">
+      <node ref="U1" pin="11"/>
+    </net>
+    <net code="120" name="Net-(U1-Pad8)">
+      <node ref="U1" pin="8"/>
+    </net>
+    <net code="121" name="Net-(U0-Pad11)">
+      <node ref="U0" pin="11"/>
+    </net>
+    <net code="122" name="Net-(U0-Pad28)">
+      <node ref="U0" pin="28"/>
+    </net>
+    <net code="123" name="Net-(U0-Pad27)">
+      <node ref="U0" pin="27"/>
+    </net>
+    <net code="124" name="Net-(U0-Pad26)">
+      <node ref="U0" pin="26"/>
+    </net>
+    <net code="125" name="Net-(U0-Pad25)">
+      <node ref="U0" pin="25"/>
+    </net>
+    <net code="126" name="Net-(U0-Pad20)">
+      <node ref="U0" pin="20"/>
+    </net>
+    <net code="127" name="Net-(U0-Pad19)">
+      <node ref="U0" pin="19"/>
+    </net>
+    <net code="128" name="Net-(U0-Pad14)">
+      <node ref="U0" pin="14"/>
+    </net>
+  </nets>
+</export>
