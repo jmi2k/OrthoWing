@@ -6,7 +6,7 @@ OrthoWing
 - **dimensions**: 229.87mm × 128.27mm
 - **layers**: 2
 
-This is a Feather-compatible keyboard. It has a 5×12 orthogonal layout which
+This is a Feather-compatible keyboard. It has a 5×12 ortholinear layout which
 makes it very portable and a good fit for exotic use-cases (such as
 macro-keyboards). The holes are designed for Cherry MX-compatible switches,
 with no extra features.
